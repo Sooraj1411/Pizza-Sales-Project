@@ -12,6 +12,7 @@ This project presents a comprehensive analysis of pizza sales data from January 
 
 ## SQL Validation
 The data used for creating these visualizations has been validated through SQL queries. These queries were executed to ensure the accuracy of the data, such as total orders, sales, and specific metrics related to best and worst-selling pizzas.
+[SQL pdf Link](https://github.com/Sooraj1411/Pizza-Sales-Project/blob/main/Pizza%20Sales%20SQL%20Queries%20Project%20%26%20Data.pdf)
 
 ## Tools Used
 - **Power BI**: For creating the dashboard and visualizations.
@@ -29,6 +30,8 @@ The data used for creating these visualizations has been validated through SQL q
 
 ## Conclusion
 This dashboard provides a detailed understanding of pizza sales, helping stakeholders make informed decisions based on data-driven insights.
+
+[Dataset Download Link](https://github.com/Sooraj1411/Pizza-Sales-Project/blob/main/pizza_sales%20(1).csv)
 
 ## Contact
 If you have any questions or need further assistance, feel free to reach out:
